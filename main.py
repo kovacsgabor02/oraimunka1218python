@@ -1,0 +1,6 @@
+import hetedik
+
+
+hetedik.hetes()
+
+
